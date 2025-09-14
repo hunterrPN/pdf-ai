@@ -7,3 +7,5 @@ PyMuPDF
 python-dotenv
 fastapi
 uvicorn
+PyPDF2
+
